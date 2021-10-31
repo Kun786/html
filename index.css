@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+    color: salmon;
+}
+
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    text-decoration: underline;
+}
+
+ul{
+    float: right;
+}
+
+li{
+    text-decoration: none;
+    display: inline-block;
+    padding: 35px 40px;
+}
+
+li a{
+    text-decoration: none;
+}
